@@ -7,12 +7,20 @@
 //
 
 #import "AppDelegate.h"
+#import "MainTableViewController.h"
 
 @implementation AppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
+    self.window.backgroundColor = [UIColor colorWithRed:245.0f/255.0f green:245.0f/255.0f blue:245.0f/255.0f alpha:1.0f];
+    [self.window makeKeyAndVisible];
+    MainTableViewController *mainController = [[MainTableViewController alloc] initWithStyle:UITableViewStyleGrouped];
+    mainController.title = @"OC开发基础";
+    UINavigationController *navigationController = [[UINavigationController alloc] initWithRootViewController:mainController];
+    self.window.rootViewController = navigationController;
     return YES;
 }
 							
