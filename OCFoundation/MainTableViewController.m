@@ -94,6 +94,19 @@
     return cell;
 }
 
+#pragma mark -
+#pragma mark Talbe View Delegate Methods
+
+- (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath
+{
+    UITableViewCell *cell = [tableView cellForRowAtIndexPath:indexPath];
+    NSLog(@"text string=%@", cell.textLabel.text);
+    Class nsClass = NSClassFromString([NSString stringWithFormat:@"%@ViewController", cell.textLabel.text]);
+    UIViewController *controller = [[nsClass alloc] init];
+    controller.title = cell.textLabel.text;
+    [self.navigationController pushViewController:controller animated:YES];
+}
+
 /*
 #pragma mark - Navigation
 

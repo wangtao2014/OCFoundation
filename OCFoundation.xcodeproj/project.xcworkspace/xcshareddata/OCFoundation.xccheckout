@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B641BDED-AECE-41FE-BF25-843A36301518</string>
+	<key>IDESourceControlProjectName</key>
+	<string>OCFoundation</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E1CA1072-E75B-4BA6-B061-81E1904D4009</key>
+		<string>https://github.com/wangtao2014/OCFoundation.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>OCFoundation.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E1CA1072-E75B-4BA6-B061-81E1904D4009</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/wangtao2014/OCFoundation.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E1CA1072-E75B-4BA6-B061-81E1904D4009</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E1CA1072-E75B-4BA6-B061-81E1904D4009</string>
+			<key>IDESourceControlWCCName</key>
+			<string>OCFoundation</string>
+		</dict>
+	</array>
+</dict>
+</plist>
