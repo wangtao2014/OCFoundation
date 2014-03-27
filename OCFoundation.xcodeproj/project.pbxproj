@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		28D9DC0B18E406870051BE28 /* NSDataViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28D9DC0A18E406870051BE28 /* NSDataViewController.m */; };
+		28D9DC0E18E406E50051BE28 /* BaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28D9DC0D18E406E50051BE28 /* BaseViewController.m */; };
+		28D9DC1018E4076F0051BE28 /* NSDataViewController.x in Resources */ = {isa = PBXBuildFile; fileRef = 28D9DC0F18E4076F0051BE28 /* NSDataViewController.x */; };
 		28DC32BC18E2DA23006359AC /* MainTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28DC32BB18E2DA23006359AC /* MainTableViewController.m */; };
 		28DD538718E186BD005BF63C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 28DD538618E186BD005BF63C /* Foundation.framework */; };
 		28DD538918E186BD005BF63C /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 28DD538818E186BD005BF63C /* CoreGraphics.framework */; };
@@ -36,6 +39,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		28D9DC0918E406870051BE28 /* NSDataViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NSDataViewController.h; sourceTree = "<group>"; };
+		28D9DC0A18E406870051BE28 /* NSDataViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NSDataViewController.m; sourceTree = "<group>"; };
+		28D9DC0C18E406E50051BE28 /* BaseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BaseViewController.h; sourceTree = "<group>"; };
+		28D9DC0D18E406E50051BE28 /* BaseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BaseViewController.m; sourceTree = "<group>"; };
+		28D9DC0F18E4076F0051BE28 /* NSDataViewController.x */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = NSDataViewController.x; sourceTree = "<group>"; };
 		28DC32BA18E2DA23006359AC /* MainTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainTableViewController.h; sourceTree = "<group>"; };
 		28DC32BB18E2DA23006359AC /* MainTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainTableViewController.m; sourceTree = "<group>"; };
 		28DD538318E186BD005BF63C /* OCFoundation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OCFoundation.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -129,6 +137,10 @@
 				9351618F18E31A4000C446AA /* NSCalendarViewController.m */,
 				9351619118E31EFF00C446AA /* CodeViewController.h */,
 				9351619218E31EFF00C446AA /* CodeViewController.m */,
+				28D9DC0918E406870051BE28 /* NSDataViewController.h */,
+				28D9DC0A18E406870051BE28 /* NSDataViewController.m */,
+				28D9DC0C18E406E50051BE28 /* BaseViewController.h */,
+				28D9DC0D18E406E50051BE28 /* BaseViewController.m */,
 			);
 			path = OCFoundation;
 			sourceTree = "<group>";
@@ -166,6 +178,7 @@
 			isa = PBXGroup;
 			children = (
 				9351619518E3206500C446AA /* NSCalendarViewController.x */,
+				28D9DC0F18E4076F0051BE28 /* NSDataViewController.x */,
 			);
 			name = Code;
 			sourceTree = "<group>";
@@ -248,6 +261,7 @@
 			files = (
 				28DD539F18E186BE005BF63C /* Images.xcassets in Resources */,
 				9351619618E3206500C446AA /* NSCalendarViewController.x in Resources */,
+				28D9DC1018E4076F0051BE28 /* NSDataViewController.x in Resources */,
 				28DD539118E186BD005BF63C /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -270,7 +284,9 @@
 				9351619318E31EFF00C446AA /* CodeViewController.m in Sources */,
 				28DD539718E186BD005BF63C /* AppDelegate.m in Sources */,
 				28DD539318E186BD005BF63C /* main.m in Sources */,
+				28D9DC0B18E406870051BE28 /* NSDataViewController.m in Sources */,
 				28DC32BC18E2DA23006359AC /* MainTableViewController.m in Sources */,
+				28D9DC0E18E406E50051BE28 /* BaseViewController.m in Sources */,
 				9351619018E31A4000C446AA /* NSCalendarViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

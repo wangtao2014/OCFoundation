@@ -1,14 +1,14 @@
 //
-//  NSCalenderViewController.h
+//  NSDataViewController.h
 //  OCFoundation
 //
-//  Created by wangtao on 14-3-26.
+//  Created by wangtao on 14-3-27.
 //  Copyright (c) 2014年 wangtao. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 #import "BaseViewController.h"
 
-@interface NSCalendarViewController : BaseViewController
+@interface NSDataViewController : BaseViewController
 
 @end

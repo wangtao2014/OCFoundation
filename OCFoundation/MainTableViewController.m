@@ -11,12 +11,21 @@
 @interface MainTableViewController ()
 
 @property (nonatomic, strong) NSArray *contentsArray;
-
 @property (nonatomic, strong) NSArray *sectionsArray;
+
 @property (nonatomic, strong) NSArray *valueObjectsArray;
 @property (nonatomic, strong) NSArray *xmlArray;
 @property (nonatomic, strong) NSArray *stringsArray;
 @property (nonatomic, strong) NSArray *collectionsArray;
+@property (nonatomic, strong) NSArray *predicatesArray;
+@property (nonatomic, strong) NSArray *osServicesArray;
+@property (nonatomic, strong) NSArray *fileSystemArray;
+@property (nonatomic, strong) NSArray *urlArray;
+@property (nonatomic, strong) NSArray *interCommunicationArray;
+@property (nonatomic, strong) NSArray *lockAndThreadArray;
+@property (nonatomic, strong) NSArray *notificationArray;
+@property (nonatomic, strong) NSArray *archiveAndSerializationArray;
+@property (nonatomic, strong) NSArray *ocLanguageServicesArray;
 
 @end
 
@@ -28,14 +37,30 @@
     if (self) {
         // Custom initialization
         
-        self.sectionsArray = @[@"Value Objects", @"XML", @"Strings", @"Collections"];
+        self.sectionsArray = @[@"Value Objects", @"XML", @"Strings", @"Collections", @"predicates", @"Operating-System Services", @"File System", @"URL", @"Interprocess Communication", @"Locking/Threading", @"Notifications", @"Archiving and Serialication", @"Objective-C Language Services"];
         
         self.valueObjectsArray = @[@"NSCalendar", @"NSCache", @"NSData", @"NSMutableData", @"NSPurgeableData", @"NSDate", @"NSCalendarDate", @"NSDateComponents", @"NSDecimalNumberHandler", @"NSLocale", @"NSNull", @"NSTimeZone", @"NSValue", @"NSNumber", @"NSDecimalNumber", @"NSValueTransformer"];
         self.xmlArray = @[@"NSXMLParser"];
         self.stringsArray = @[@"NSAttributedString", @"NSMutableAttributedString", @"NSCharacterSet", @"NSMutableCharacterSet", @"NSString", @"NSMutableString", @"NSFormatter", @"NSDateFormatter", @"NSNumberFormatter", @"NSScanner", @"NSSortDescriptor"];
         self.collectionsArray = @[@"NSArray", @"NSMutableArray", @"NSDictionary", @"NSMutableDictionay", @"NSEnumerator", @"NSDictionaryEnumerator"];
         
-        self.contentsArray = @[self.valueObjectsArray, self.xmlArray, self.stringsArray, self.collectionsArray];
+        self.predicatesArray = @[@"NSExpression", @"NSPredicate", @"NSComparisonPredicate", @"NSCompoundPredicate"];
+        self.osServicesArray = @[@"NSError", @"NSHost", @"NSNetService", @"NSNetServiceBroswer", @"NSOrthography", @"NSProcessInfo", @"NSRunLoop", @"NSTextCheckingResult", @"NSTimer", @"NSUserDefaults"];
+        
+        self.fileSystemArray = @[@"NSBundle", @"NSFileHandle", @"NSFileManager", @"NSMetadataItem", @"NSMetadataQuery", @"NSMetadataQueryAttributeValueTuple", @"NSMetadataQueryResultGroup", @"NSStream", @"NSInputStream", @"NSOutputStream"];
+        
+        self.urlArray = @[@"NSCachedURLResponse", @"NSHTTPCookie", @"NSHTTPCookieStorage", @"NSURL", @"NSURLAuthorizationChallenge", @"NSURLCache", @"NSURLConnection", @"NSURLCredential", @"NSURLCredentialStorage", @"NSURLDownload", @"NSURLProtectionSpace", @"NSURLProtocol", @"NSURLRequest", @"NSMutableURLRequest", @"NSURLResponse", @"NSHTTPURLResponse"];
+        
+        self.interCommunicationArray = @[@"NSPipe", @"NSPort", @"NSMachPort", @"NSMessagePort"];
+        
+        self.lockAndThreadArray = @[@"NSConditionLock", @"NSDistributedLock", @"NSLock", @"NSOperation", @"NSBlockOperation", @"NSInvocationOperation", @"NSQueue", @"NSRecursiveLock", @"NSTask", @"NSThread"];
+        self.notificationArray = @[@"NSNotification", @"NSNotificationCenter", @"NSDistributedNotificationCenter", @"NSNotificationQueue"];
+        
+        self.archiveAndSerializationArray = @[@"NSCoder", @"NSArchiver", @"NSKeyedArchiver", @"NSKeyedUnarchiver", @"NSUnarchiver", @"NSPropertyListSerialization"];
+        
+        self.ocLanguageServicesArray = @[@"NSAssertionHandler", @"NSAutoreleasePool", @"NSClassDescription",@"NSException",@"NSInvocation",@"NSMethodSignature",@"NSUndoManager"];
+        
+        self.contentsArray = @[self.valueObjectsArray, self.xmlArray, self.stringsArray, self.collectionsArray, self.predicatesArray, self.osServicesArray, self.fileSystemArray, self.urlArray, self.interCommunicationArray, self.lockAndThreadArray, self.notificationArray, self.archiveAndSerializationArray, self.ocLanguageServicesArray];
     }
     return self;
 }
@@ -61,7 +86,7 @@
 
 - (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView
 {
-    return 4;
+    return [self.sectionsArray count];
 }
 
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section
@@ -82,15 +107,9 @@
         cell = [[UITableViewCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:@"reuseIdentifier"];
         cell.accessoryType = UITableViewCellAccessoryDisclosureIndicator;
     }
-    if ([indexPath section] == 0) {
-        cell.textLabel.text = [self.valueObjectsArray objectAtIndex:indexPath.row];
-    } else if ([indexPath section] == 1) {
-        cell.textLabel.text = [self.xmlArray objectAtIndex:indexPath.row];
-    } else if ([indexPath section] == 2) {
-        cell.textLabel.text = [self.stringsArray objectAtIndex:indexPath.row];
-    } else if ([indexPath section] == 3) {
-        cell.textLabel.text = [self.collectionsArray objectAtIndex:indexPath.row];
-    }
+
+    cell.textLabel.text = [[self.contentsArray objectAtIndex:indexPath.section] objectAtIndex:indexPath.row];
+    
     return cell;
 }
 
@@ -106,16 +125,5 @@
     controller.title = cell.textLabel.text;
     [self.navigationController pushViewController:controller animated:YES];
 }
-
-/*
-#pragma mark - Navigation
-
-// In a storyboard-based application, you will often want to do a little preparation before navigation
-- (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender
-{
-    // Get the new view controller using [segue destinationViewController].
-    // Pass the selected object to the new view controller.
-}
-*/
 
 @end

@@ -1,0 +1,509 @@
+TOCFoundation
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/vs/jwnvhv5943dfc7tf1_px36b00000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/OCFoundation-Prefix-enlnkooszbghgrbhvgqpxozqakgs/OCFoundation-Prefix.pch.pch OCFoundation/OCFoundation-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/CodeViewController.o /Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/CodeViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/AppDelegate.o /Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/main.o /Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/NSDataViewController.o /Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/NSDataViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/MainTableViewController.o /Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/MainTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/BaseViewController.o /Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/BaseViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/NSCalendarViewController.o /Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/NSCalendarViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/OCFoundation.app/OCFoundation normal i386
+cCpResource OCFoundation/NSCalendarViewController.x build/Debug-iphonesimulator/OCFoundation.app/NSCalendarViewController.x
+cCpResource OCFoundation/NSDataViewController.x build/Debug-iphonesimulator/OCFoundation.app/NSDataViewController.x
+cCopyStringsFile /Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/OCFoundation.app/en.lproj/InfoPlist.strings OCFoundation/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/OCFoundation.app /Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/Images.xcassets
+cProcessInfoPlistFile /Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/OCFoundation.app/Info.plist /Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/OCFoundation-Info.plist
+cGenerateDSYMFile /Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/OCFoundation.app.dSYM /Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/OCFoundation.app/OCFoundation
+cTouch /Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/OCFoundation.app
+
+N/Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/AppDelegate.m
+c00000000533385A60000000000000A4C
+t1395885478
+s2636
+
+N/Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/BaseViewController.m
+c000000005333CFAF00000000000004F2
+t1395904431
+s1266
+
+N/Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/CodeViewController.m
+c00000000533385A600000000000004C8
+t1395885478
+s1224
+
+N/Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/Images.xcassets
+c00000000533385A60000000000000088
+t1395885478
+s136
+
+N/Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/MainTableViewController.m
+c000000005333CDDC0000000000001995
+t1395903964
+s6549
+
+N/Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/NSCalendarViewController.m
+c000000005333CFA20000000000000356
+t1395904418
+s854
+
+N/Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/NSCalendarViewController.x
+c000000005333C322000000000000029E
+t1395901218
+s670
+
+N/Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/NSDataViewController.m
+c000000005333CFD900000000000002E1
+t1395904473
+s737
+
+N/Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/NSDataViewController.x
+c000000005333CFF50000000000000000
+t1395904501
+s0
+
+N/Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/OCFoundation-Info.plist
+c00000000533385A60000000000000490
+t1395885478
+s1168
+
+N/Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/OCFoundation-Prefix.pch
+c00000000533385A60000000000000158
+t1395885478
+s344
+
+N/Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/en.lproj/InfoPlist.strings
+c00000000533385A6000000000000002D
+t1395885478
+s45
+
+N/Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/main.m
+c00000000533385A60000000000000151
+t1395885478
+s337
+
+N/Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/OCFoundation.app
+t1395904525
+s340
+
+N/Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/OCFoundation.app.dSYM
+t2
+s0
+
+N/Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/OCFoundation.app/Info.plist
+t1395904525
+s993
+
+N/Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/OCFoundation.app/NSCalendarViewController.x
+t1395904513
+s670
+
+N/Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/OCFoundation.app/NSDataViewController.x
+t1395904513
+s0
+
+N/Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/OCFoundation.app/OCFoundation
+t1395904512
+s59744
+
+N/Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/OCFoundation.app/PkgInfo
+t1395904525
+s8
+
+N/Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/OCFoundation.app/en.lproj/InfoPlist.strings
+t1395904513
+s42
+
+N/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/AppDelegate.o
+t1395904510
+s68132
+
+N/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/BaseViewController.o
+t1395904511
+s42604
+
+N/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/CodeViewController.o
+t1395904510
+s49676
+
+N/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/MainTableViewController.o
+t1395904511
+s92280
+
+N/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/NSCalendarViewController.o
+t1395904511
+s41204
+
+N/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/NSDataViewController.o
+t1395904511
+s40304
+
+N/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/OCFoundation.LinkFileList
+c000000005333CFFA0000000000000404
+t1395904506
+s1028
+
+N/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/main.o
+t1395904510
+s3552
+
+N/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/assetcatalog_dependencies.txt
+t1395904525
+s368
+
+N/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/assetcatalog_generated_info.plist
+t1395904525
+s525
+
+N/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c000000005323145100000000000003B4
+t1394807889
+s948
+
+N/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005323145A000000000000019E
+t1394807898
+s414
+
+N/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005323145C0000000000446820
+t1394807900
+s4483104
+
+N/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005323145E000000000088D8C0
+t1394807902
+s8968384
+
+N/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000532314630000000001F1DE10
+t1394807907
+s32628240
+
+N/Users/umpay/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000532314AD0000000000000ADC
+t1394807981
+s2780
+
+N/var/folders/vs/jwnvhv5943dfc7tf1_px36b00000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/OCFoundation-Prefix-enlnkooszbghgrbhvgqpxozqakgs/OCFoundation-Prefix.pch.pch
+t1395904508
+s122052
+
+CBuild AST from /Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/AppDelegate.m
+r0
+
+CBuild AST from /Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/BaseViewController.m
+r0
+
+CBuild AST from /Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/CodeViewController.m
+r0
+
+CBuild AST from /Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/MainTableViewController.m
+r0
+
+CBuild AST from /Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/NSCalendarViewController.m
+r0
+
+CBuild AST from /Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/NSDataViewController.m
+r0
+
+CBuild AST from /Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies4d11b47a07e4b841^1f67ca7a07e4b841^---0#1#1#--18"Check dependencies36"0AC25518-CB74-4802-924F-9D17810CB76F-
+
+CCompileAssetCatalog /Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/OCFoundation.app /Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/Images.xcassets
+s417597313.201425
+e417597325.934289
+r1
+xCompileAssetCatalog
+x/Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/OCFoundation.app
+x/Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/OCFoundation.app/LaunchImage-700-568h@2x.png
+o/Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/OCFoundation.app/Assets.car
+o/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"CompileAssetCatalog build/Debug-iphonesimulator/OCFoundation.app OCFoundation/Images.xcassets93"CompileAssetCatalog build/Debug-iphonesimulator/OCFoundation.app OCFoundation/Images.xcassets3eb0338107e4b841^f52def8d07e4b841^-396"/* com.apple.actool.compilation-results *//Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/OCFoundation.app/LaunchImage-700-568h@2x.png/Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/OCFoundation.app/Assets.car/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@77"file:///Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/Images.xcassets/0000000000000000^1169"CompileAssetCatalog build/Debug-iphonesimulator/OCFoundation.app OCFoundation/Images.xcassets    cd /Users/umpay/Downloads/Blog/OCFoundation    export PATH="/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/umpay/Downloads/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/OCFoundation.app /Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/Images.xcassets36"BF79ADAE-AA81-434C-949B-A530E2907610-
+b7225FA9A-BF47-45A2-84E2-DE99C1C5B89B
+
+CCompileC build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/AppDelegate.o /Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417597308.739167
+e417597310.761845
+r1
+xCompileC
+xbuild/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/AppDelegate.o
+x/Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/AppDelegate.m
+d/Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/AppDelegate.h
+d/Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/MainTableViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/AppDelegate.m203"CompileC build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/AppDelegate.o OCFoundation/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd95cbd7c07e4b841^5e12c37e07e4b841^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/AppDelegate.m0000000000000000^3742"CompileC build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/AppDelegate.o OCFoundation/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/umpay/Downloads/Blog/OCFoundation    export LANG=en_US.US-ASCII    export PATH="/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/umpay/Downloads/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/umpay/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/umpay/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/OCFoundation-generated-files.hmap -I/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/OCFoundation-own-target-headers.hmap -I/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/OCFoundation-all-target-headers.hmap -iquote /Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/OCFoundation-project-headers.hmap -I/Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/include -I/Users/umpay/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/DerivedSources/i386 -I/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/DerivedSources -F/Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator -include /var/folders/vs/jwnvhv5943dfc7tf1_px36b00000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/OCFoundation-Prefix-enlnkooszbghgrbhvgqpxozqakgs/OCFoundation-Prefix.pch -MMD -MT dependencies -MF /Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/AppDelegate.dia -c /Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/AppDelegate.m -o /Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/AppDelegate.o36"76FD0875-8C42-4F69-868A-B386DD482E77-
+b7225FA9A-BF47-45A2-84E2-DE99C1C5B89B
+
+CCompileC build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/BaseViewController.o /Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/BaseViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417597311.573019
+e417597311.703125
+r1
+xCompileC
+xbuild/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/BaseViewController.o
+x/Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/BaseViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/BaseViewController.m
+d/Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/BaseViewController.h
+d/Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/CodeViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/BaseViewController.m217"CompileC build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/BaseViewController.o OCFoundation/BaseViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler31d3927f07e4b841^7f4fb47f07e4b841^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/BaseViewController.m0000000000000000^3784"CompileC build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/BaseViewController.o OCFoundation/BaseViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/umpay/Downloads/Blog/OCFoundation    export LANG=en_US.US-ASCII    export PATH="/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/umpay/Downloads/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/umpay/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/umpay/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/OCFoundation-generated-files.hmap -I/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/OCFoundation-own-target-headers.hmap -I/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/OCFoundation-all-target-headers.hmap -iquote /Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/OCFoundation-project-headers.hmap -I/Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/include -I/Users/umpay/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/DerivedSources/i386 -I/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/DerivedSources -F/Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator -include /var/folders/vs/jwnvhv5943dfc7tf1_px36b00000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/OCFoundation-Prefix-enlnkooszbghgrbhvgqpxozqakgs/OCFoundation-Prefix.pch -MMD -MT dependencies -MF /Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/BaseViewController.d --serialize-diagnostics /Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/BaseViewController.dia -c /Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/BaseViewController.m -o /Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/BaseViewController.o36"D6997448-8FC1-458D-9FDA-1D17CADAF2DC-
+b7225FA9A-BF47-45A2-84E2-DE99C1C5B89B
+
+CCompileC build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/CodeViewController.o /Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/CodeViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417597308.738132
+e417597310.762465
+r1
+xCompileC
+xbuild/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/CodeViewController.o
+x/Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/CodeViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/CodeViewController.m
+d/Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/CodeViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/CodeViewController.m217"CompileC build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/CodeViewController.o OCFoundation/CodeViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler202abd7c07e4b841^2233c37e07e4b841^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/CodeViewController.m0000000000000000^3784"CompileC build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/CodeViewController.o OCFoundation/CodeViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/umpay/Downloads/Blog/OCFoundation    export LANG=en_US.US-ASCII    export PATH="/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/umpay/Downloads/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/umpay/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/umpay/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/OCFoundation-generated-files.hmap -I/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/OCFoundation-own-target-headers.hmap -I/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/OCFoundation-all-target-headers.hmap -iquote /Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/OCFoundation-project-headers.hmap -I/Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/include -I/Users/umpay/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/DerivedSources/i386 -I/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/DerivedSources -F/Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator -include /var/folders/vs/jwnvhv5943dfc7tf1_px36b00000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/OCFoundation-Prefix-enlnkooszbghgrbhvgqpxozqakgs/OCFoundation-Prefix.pch -MMD -MT dependencies -MF /Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/CodeViewController.d --serialize-diagnostics /Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/CodeViewController.dia -c /Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/CodeViewController.m -o /Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/CodeViewController.o36"E155DC92-564E-4757-B021-47ADA203B138-
+b7225FA9A-BF47-45A2-84E2-DE99C1C5B89B
+
+CCompileC build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/MainTableViewController.o /Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/MainTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417597311.306155
+e417597311.572541
+r1
+xCompileC
+xbuild/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/MainTableViewController.o
+x/Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/MainTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/MainTableViewController.m
+d/Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/MainTableViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/MainTableViewController.m227"CompileC build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/MainTableViewController.o OCFoundation/MainTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler807f4e7f07e4b841^1d92927f07e4b841^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/MainTableViewController.m0000000000000000^3814"CompileC build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/MainTableViewController.o OCFoundation/MainTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/umpay/Downloads/Blog/OCFoundation    export LANG=en_US.US-ASCII    export PATH="/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/umpay/Downloads/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/umpay/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/umpay/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/OCFoundation-generated-files.hmap -I/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/OCFoundation-own-target-headers.hmap -I/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/OCFoundation-all-target-headers.hmap -iquote /Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/OCFoundation-project-headers.hmap -I/Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/include -I/Users/umpay/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/DerivedSources/i386 -I/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/DerivedSources -F/Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator -include /var/folders/vs/jwnvhv5943dfc7tf1_px36b00000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/OCFoundation-Prefix-enlnkooszbghgrbhvgqpxozqakgs/OCFoundation-Prefix.pch -MMD -MT dependencies -MF /Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/MainTableViewController.d --serialize-diagnostics /Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/MainTableViewController.dia -c /Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/MainTableViewController.m -o /Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/MainTableViewController.o36"0E5AEA6E-A49C-48DD-A43E-F0C4D28E1EA7-
+b7225FA9A-BF47-45A2-84E2-DE99C1C5B89B
+
+CCompileC build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/NSCalendarViewController.o /Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/NSCalendarViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417597311.703520
+e417597311.869384
+r1
+xCompileC
+xbuild/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/NSCalendarViewController.o
+x/Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/NSCalendarViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/NSCalendarViewController.m
+d/Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/NSCalendarViewController.h
+d/Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/BaseViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/NSCalendarViewController.m229"CompileC build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/NSCalendarViewController.o OCFoundation/NSCalendarViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0f46b47f07e4b841^00acde7f07e4b841^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/NSCalendarViewController.m0000000000000000^3820"CompileC build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/NSCalendarViewController.o OCFoundation/NSCalendarViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/umpay/Downloads/Blog/OCFoundation    export LANG=en_US.US-ASCII    export PATH="/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/umpay/Downloads/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/umpay/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/umpay/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/OCFoundation-generated-files.hmap -I/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/OCFoundation-own-target-headers.hmap -I/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/OCFoundation-all-target-headers.hmap -iquote /Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/OCFoundation-project-headers.hmap -I/Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/include -I/Users/umpay/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/DerivedSources/i386 -I/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/DerivedSources -F/Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator -include /var/folders/vs/jwnvhv5943dfc7tf1_px36b00000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/OCFoundation-Prefix-enlnkooszbghgrbhvgqpxozqakgs/OCFoundation-Prefix.pch -MMD -MT dependencies -MF /Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/NSCalendarViewController.d --serialize-diagnostics /Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/NSCalendarViewController.dia -c /Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/NSCalendarViewController.m -o /Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/NSCalendarViewController.o36"7D2D33A3-3A0C-4933-91FA-72AFA6C5E905-
+b7225FA9A-BF47-45A2-84E2-DE99C1C5B89B
+
+CCompileC build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/NSDataViewController.o /Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/NSDataViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417597310.962098
+e417597311.305734
+r1
+xCompileC
+xbuild/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/NSDataViewController.o
+x/Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/NSDataViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/NSDataViewController.m
+d/Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/NSDataViewController.h
+d/Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/BaseViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/NSDataViewController.m221"CompileC build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/NSDataViewController.o OCFoundation/NSDataViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9772f67e07e4b841^a6444e7f07e4b841^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/NSDataViewController.m0000000000000000^3796"CompileC build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/NSDataViewController.o OCFoundation/NSDataViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/umpay/Downloads/Blog/OCFoundation    export LANG=en_US.US-ASCII    export PATH="/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/umpay/Downloads/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/umpay/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/umpay/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/OCFoundation-generated-files.hmap -I/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/OCFoundation-own-target-headers.hmap -I/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/OCFoundation-all-target-headers.hmap -iquote /Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/OCFoundation-project-headers.hmap -I/Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/include -I/Users/umpay/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/DerivedSources/i386 -I/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/DerivedSources -F/Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator -include /var/folders/vs/jwnvhv5943dfc7tf1_px36b00000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/OCFoundation-Prefix-enlnkooszbghgrbhvgqpxozqakgs/OCFoundation-Prefix.pch -MMD -MT dependencies -MF /Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/NSDataViewController.d --serialize-diagnostics /Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/NSDataViewController.dia -c /Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/NSDataViewController.m -o /Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/NSDataViewController.o36"6C9A04E2-E752-4666-A54B-12B26A3F4229-
+b7225FA9A-BF47-45A2-84E2-DE99C1C5B89B
+
+CCompileC build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/main.o /Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417597310.762653
+e417597310.961814
+r1
+xCompileC
+xbuild/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/main.o
+x/Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/main.m
+d/Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/main.m189"CompileC build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/main.o OCFoundation/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3d5fc37e07e4b841^9339f67e07e4b841^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/main.m0000000000000000^3700"CompileC build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/main.o OCFoundation/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/umpay/Downloads/Blog/OCFoundation    export LANG=en_US.US-ASCII    export PATH="/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/umpay/Downloads/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/umpay/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/umpay/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/OCFoundation-generated-files.hmap -I/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/OCFoundation-own-target-headers.hmap -I/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/OCFoundation-all-target-headers.hmap -iquote /Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/OCFoundation-project-headers.hmap -I/Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/include -I/Users/umpay/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/DerivedSources/i386 -I/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/DerivedSources -F/Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator -include /var/folders/vs/jwnvhv5943dfc7tf1_px36b00000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/OCFoundation-Prefix-enlnkooszbghgrbhvgqpxozqakgs/OCFoundation-Prefix.pch -MMD -MT dependencies -MF /Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/main.dia -c /Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/main.m -o /Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/main.o36"0A54B08B-91DA-4C75-94E4-8C00AEE2365C-
+b7225FA9A-BF47-45A2-84E2-DE99C1C5B89B
+
+CCopyStringsFile /Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/OCFoundation.app/en.lproj/InfoPlist.strings OCFoundation/en.lproj/InfoPlist.strings
+s417597313.138556
+e417597313.200659
+r1
+xCopyStringsFile
+x/Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/OCFoundation.app/en.lproj/InfoPlist.strings
+xOCFoundation/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy OCFoundation/en.lproj/InfoPlist.strings127"CopyStringsFile build/Debug-iphonesimulator/OCFoundation.app/en.lproj/InfoPlist.strings OCFoundation/en.lproj/InfoPlist.strings0d89238107e4b841^4e5f338107e4b841^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/en.lproj/InfoPlist.strings0000000000000000^617"CopyStringsFile build/Debug-iphonesimulator/OCFoundation.app/en.lproj/InfoPlist.strings OCFoundation/en.lproj/InfoPlist.strings    cd /Users/umpay/Downloads/Blog/OCFoundation    export PATH="/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/umpay/Downloads/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/OCFoundation.app/en.lproj -- OCFoundation/en.lproj/InfoPlist.strings36"B5D9EEBA-2439-456E-90FD-9048704E18DF-
+b7225FA9A-BF47-45A2-84E2-DE99C1C5B89B
+
+CCpResource OCFoundation/NSCalendarViewController.x build/Debug-iphonesimulator/OCFoundation.app/NSCalendarViewController.x
+s417597313.135399
+e417597313.136896
+r1
+xCpResource
+xOCFoundation/NSCalendarViewController.x
+xbuild/Debug-iphonesimulator/OCFoundation.app/NSCalendarViewController.x
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Copy build/Debug-iphonesimulator/OCFoundation.app/NSCalendarViewController.x122"CpResource OCFoundation/NSCalendarViewController.x build/Debug-iphonesimulator/OCFoundation.app/NSCalendarViewController.x49be228107e4b841^460c238107e4b841^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/OCFoundation.app/NSCalendarViewController.x00345879ddffdf42^663"CpResource OCFoundation/NSCalendarViewController.x build/Debug-iphonesimulator/OCFoundation.app/NSCalendarViewController.x    cd /Users/umpay/Downloads/Blog/OCFoundation    export PATH="/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/umpay/Downloads/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/NSCalendarViewController.x /Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/OCFoundation.app36"C0EA1951-3C80-4B13-8765-3E47589424C9-
+b7225FA9A-BF47-45A2-84E2-DE99C1C5B89B
+
+CCpResource OCFoundation/NSDataViewController.x build/Debug-iphonesimulator/OCFoundation.app/NSDataViewController.x
+s417597313.137217
+e417597313.138395
+r1
+xCpResource
+xOCFoundation/NSDataViewController.x
+xbuild/Debug-iphonesimulator/OCFoundation.app/NSDataViewController.x
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Copy build/Debug-iphonesimulator/OCFoundation.app/NSDataViewController.x114"CpResource OCFoundation/NSDataViewController.x build/Debug-iphonesimulator/OCFoundation.app/NSDataViewController.x2233238107e4b841^726e238107e4b841^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/OCFoundation.app/NSDataViewController.x00345879ddffdf42^651"CpResource OCFoundation/NSDataViewController.x build/Debug-iphonesimulator/OCFoundation.app/NSDataViewController.x    cd /Users/umpay/Downloads/Blog/OCFoundation    export PATH="/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/umpay/Downloads/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/NSDataViewController.x /Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/OCFoundation.app36"A56EB508-4178-418A-8B42-AF9A921D8731-
+b7225FA9A-BF47-45A2-84E2-DE99C1C5B89B
+
+CGenerateDSYMFile /Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/OCFoundation.app.dSYM /Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/OCFoundation.app/OCFoundation
+s417597325.962240
+e417597326.312235
+r1
+xGenerateDSYMFile
+x/Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/OCFoundation.app.dSYM
+x/Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/OCFoundation.app/OCFoundation
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Generate /Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/OCFoundation.app.dSYM124"GenerateDSYMFile build/Debug-iphonesimulator/OCFoundation.app.dSYM build/Debug-iphonesimulator/OCFoundation.app/OCFoundationb56bf68d07e4b841^cbf44f8e07e4b841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/OCFoundation.app.dSYM00345879ddffdf42^688"GenerateDSYMFile build/Debug-iphonesimulator/OCFoundation.app.dSYM build/Debug-iphonesimulator/OCFoundation.app/OCFoundation    cd /Users/umpay/Downloads/Blog/OCFoundation    export PATH="/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/umpay/Downloads/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/umpay/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/OCFoundation.app/OCFoundation -o /Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/OCFoundation.app.dSYM36"AB53647D-0F03-430F-A23C-2395D7F15D82-
+b7225FA9A-BF47-45A2-84E2-DE99C1C5B89B
+
+CLd /Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/OCFoundation.app/OCFoundation normal i386
+s417597311.871168
+e417597313.133560
+r1
+xLd
+x/Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/OCFoundation.app/OCFoundation
+xnormal
+xi386
+d/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/OCFoundation.LinkFileList
+d/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/CodeViewController.o
+d/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/AppDelegate.o
+d/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/main.o
+d/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/NSDataViewController.o
+d/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/MainTableViewController.o
+d/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/BaseViewController.o
+d/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/NSCalendarViewController.o
+d/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Users/umpay/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Link /Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/OCFoundation.app/OCFoundation72"Ld build/Debug-iphonesimulator/OCFoundation.app/OCFoundation normal i386221cdf7f07e4b841^c136228107e4b841^---0#0#1#--1423"Ld build/Debug-iphonesimulator/OCFoundation.app/OCFoundation normal i386    cd /Users/umpay/Downloads/Blog/OCFoundation    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/umpay/Downloads/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/umpay/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator -F/Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator -filelist /Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/OCFoundation.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/Objects-normal/i386/OCFoundation_dependency_info.dat -o /Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/OCFoundation.app/OCFoundation36"E0072ED8-3923-4475-9191-B78D3C431295-
+b7225FA9A-BF47-45A2-84E2-DE99C1C5B89B
+
+CProcessInfoPlistFile /Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/OCFoundation.app/Info.plist /Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/OCFoundation-Info.plist
+s417597325.935135
+e417597325.961516
+r1
+xProcessInfoPlistFile
+x/Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/OCFoundation.app/Info.plist
+x/Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/OCFoundation-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Process /Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/OCFoundation-Info.plist113"ProcessInfoPlistFile build/Debug-iphonesimulator/OCFoundation.app/Info.plist OCFoundation/OCFoundation-Info.plistbc78ef8d07e4b841^1827f68d07e4b841^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/OCFoundation-Info.plist0000000000000000^914"ProcessInfoPlistFile build/Debug-iphonesimulator/OCFoundation.app/Info.plist OCFoundation/OCFoundation-Info.plist    cd /Users/umpay/Downloads/Blog/OCFoundation    export PATH="/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/umpay/Downloads/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/OCFoundation-Info.plist -genpkginfo /Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/OCFoundation.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/assetcatalog_generated_info.plist -o /Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/OCFoundation.app/Info.plist36"D7EBB6D3-DE78-4437-B719-C1F03E4AB691-
+b7225FA9A-BF47-45A2-84E2-DE99C1C5B89B
+
+CProcessPCH /Users/umpay/Library/Developer/Xcode/DerivedData/OCFoundation-babhjuyojatklhbrxvbnxqnpmkzg/Index/PrecompiledHeaders/OCFoundation-Prefix-ciuwhgprwupqxqdcyhbbdbwbdtlr_ast/OCFoundation-Prefix.pch.pch OCFoundation/OCFoundation-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/vs/jwnvhv5943dfc7tf1_px36b00000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/OCFoundation-Prefix-enlnkooszbghgrbhvgqpxozqakgs/OCFoundation-Prefix.pch.pch OCFoundation/OCFoundation-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417597306.791086
+e417597308.736756
+r1
+xProcessPCH
+x/var/folders/vs/jwnvhv5943dfc7tf1_px36b00000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/OCFoundation-Prefix-enlnkooszbghgrbhvgqpxozqakgs/OCFoundation-Prefix.pch.pch
+xOCFoundation/OCFoundation-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/OCFoundation-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile OCFoundation/OCFoundation-Prefix.pch308"ProcessPCH /var/folders/vs/jwnvhv5943dfc7tf1_px36b00000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/OCFoundation-Prefix-enlnkooszbghgrbhvgqpxozqakgs/OCFoundation-Prefix.pch.pch OCFoundation/OCFoundation-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerdfa3ca7a07e4b841^00aabc7c07e4b841^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/OCFoundation-Prefix.pch0000000000000000^3818"ProcessPCH /var/folders/vs/jwnvhv5943dfc7tf1_px36b00000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/OCFoundation-Prefix-enlnkooszbghgrbhvgqpxozqakgs/OCFoundation-Prefix.pch.pch OCFoundation/OCFoundation-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/umpay/Downloads/Blog/OCFoundation    export LANG=en_US.US-ASCII    export PATH="/Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/umpay/Downloads/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/umpay/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/umpay/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Users/umpay/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/OCFoundation-generated-files.hmap -I/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/OCFoundation-own-target-headers.hmap -I/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/OCFoundation-all-target-headers.hmap -iquote /Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/OCFoundation-project-headers.hmap -I/Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/include -I/Users/umpay/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/DerivedSources/i386 -I/Users/umpay/Downloads/Blog/OCFoundation/build/OCFoundation.build/Debug-iphonesimulator/OCFoundation.build/DerivedSources -F/Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/vs/jwnvhv5943dfc7tf1_px36b00000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/OCFoundation-Prefix-enlnkooszbghgrbhvgqpxozqakgs/OCFoundation-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/vs/jwnvhv5943dfc7tf1_px36b00000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/OCFoundation-Prefix-enlnkooszbghgrbhvgqpxozqakgs/OCFoundation-Prefix.pch.d -c /Users/umpay/Downloads/Blog/OCFoundation/OCFoundation/OCFoundation-Prefix.pch -o /var/folders/vs/jwnvhv5943dfc7tf1_px36b00000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/OCFoundation-Prefix-enlnkooszbghgrbhvgqpxozqakgs/OCFoundation-Prefix.pch.pch36"DE1A368C-BF89-4287-A0F2-3211A88A770C-
+b7225FA9A-BF47-45A2-84E2-DE99C1C5B89B
+
+CTouch /Users/umpay/Downloads/Blog/OCFoundation/build/Debug-iphonesimulator/OCFoundation.app
+r0
+

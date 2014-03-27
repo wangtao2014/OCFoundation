@@ -1,18 +1,18 @@
 //
-//  NSCalenderViewController.m
+//  NSDataViewController.m
 //  OCFoundation
 //
-//  Created by wangtao on 14-3-26.
+//  Created by wangtao on 14-3-27.
 //  Copyright (c) 2014年 wangtao. All rights reserved.
 //
 
-#import "NSCalendarViewController.h"
+#import "NSDataViewController.h"
 
-@interface NSCalendarViewController ()
+@interface NSDataViewController ()
 
 @end
 
-@implementation NSCalendarViewController
+@implementation NSDataViewController
 
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
 {
@@ -29,8 +29,6 @@
     // Do any additional setup after loading the view.
     
     
-    NSCalendar *calendar = [NSCalendar currentCalendar];
-    NSLog(@"currentCalendar=%@", calendar);
 }
 
 - (void)didReceiveMemoryWarning
